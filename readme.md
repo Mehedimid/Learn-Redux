@@ -95,8 +95,4 @@ We log the state of the store again to see the updated state after dispatching t
 - **Dispatching an Action**: Triggers the reducer to update the state based on the action type.
 - **Getting State**: Retrieves the current state from the store.
 
-When you run this code, you'll see the state transition from `{ amount: 1 }` to `{ amount: 2 }` after dispatching the `"increase"` action.
-
----
-
-Save this as `README.md` in your project directory. This file provides a comprehensive explanation of the code and how to set up the project.
+When we run this code, you'll see the state transition from `{ amount: 1 }` to `{ amount: 2 }` after dispatching the `"increase"` action.
