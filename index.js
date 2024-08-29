@@ -47,7 +47,7 @@ function increaseByAmountAct(value) {
 }
 
 // === dispatch an action here ===
-store.dispatch(initUser);
+// store.dispatch(initUser);
 
 // Uncomment to track state changes
 // store.subscribe(() => {
@@ -56,4 +56,5 @@ store.dispatch(initUser);
 //    console.log(history);
 // });
 
-// new changes made 2
+// new changes made at 256 gb ram
+console.log("first")
