@@ -57,4 +57,4 @@ function increaseByAmountAct(value) {
 // });
 
 // new changes made at 256 gb ram
-console.log("first")
+console.log("today is 28 th september and logged in ssd 512")
